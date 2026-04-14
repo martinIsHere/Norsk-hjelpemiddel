@@ -1,3 +1,19 @@
+Norskeksamen i hovedmål for VG3 er en av de viktigste eksamenene på videregående. Eksamen tester analytisk skriving, teksttolkning og bred kjennskap til norsk litteraturhistorie. Elevene arbeider med vedlagte tekster og skriver lengre resonnerende eller kreative tekster.
+
+Emner
+Tekstanalyse og tolkning
+Litteraturhistorie
+Sakprosa og retorikk
+Kreativ skriving
+Språkhistorie
+Norsk språkpolitikk
+Tips til eksamen
+Øv på å analysere ukjente tekster systematisk — bruk SPORK eller lignende analysemodeller.
+Ha god oversikt over litteraturhistoriens hovedepoker og sentrale forfatterskap.
+Vis at du kan drøfte, ikke bare gjenfortelle. Egne refleksjoner teller mye.
+
+
+
 
 **SPORK** er en enkel huskeregel (analysemodell) som brukes i norskfaget for å analysere ukjente tekster på en systematisk måte. Den hjelper deg å dekke de viktigste sidene ved en tekst når du leser, tolker og skriver analyse.
 

@@ -1,0 +1,9 @@
+'use strict';
+
+
+$(document).ready(function(){
+   $(".udasie").each(function(number, item) {
+      $(item)[0].textContent = number+1;
+     console.log(number, 'consola');
+   });
+});

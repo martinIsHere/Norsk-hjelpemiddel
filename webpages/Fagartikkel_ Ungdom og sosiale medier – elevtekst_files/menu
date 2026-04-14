@@ -1,0 +1,28 @@
+'use strict';
+
+
+$(document).ready(function(){
+
+	$('#menu a[data-active]').parents('ul').addClass('open').slideDown();
+	$('#menu a[data-active]').parents('ul').siblings('button').addClass('open');
+
+	$('#menu nav button, #menu nav span').click(function(){
+
+		if($(this).siblings('ul').hasClass('open') == false) {
+			$('#menu ul:not(nav > ul)').not($(this).parents()).removeClass('open').slideUp();
+			$(this).siblings('ul').addClass('open').slideDown();
+
+			$('#menu ul:not(nav > ul)').not($(this).parents()).siblings('button').removeClass('open');
+			$(this).addClass('open');
+		} else {
+			$(this).siblings('ul').removeClass('open').slideUp();
+			$(this).removeClass('open');
+		}
+
+	});
+
+	$('button#show_hide_menu').click(function(){
+		$('#menuwrapper').toggleClass('open');
+	});
+
+});
