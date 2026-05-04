@@ -17,7 +17,7 @@ Kjennetegn:
 ***
 
 ## 2. Historisk bakgrunn (viktig!)
-
+    
 For å få god karakter må du koble litteraturen til historien:
 
 *   **1814**: Norge får egen grunnlov
