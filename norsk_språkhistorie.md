@@ -189,3 +189,243 @@ Hvis du vil, kan jeg også:
 *   Forklare dette på **VG1/VG2-nivå**
 
 Bare si ifra 🙂
+
+
+
+
+
+-------------------------------------------
+
+
+
+
+
+
+
+Her er ei **detaljert og eksamensretta oversikt over norsk språkhistorie**, skrive på **nynorsk**, med **nøkkelpersonar, sentrale hendingar og forklaringar**. Dette nivået er tilpassa **karakter 6** i norskfaget.
+
+***
+
+# Norsk språkhistorie – detaljert oversikt (sekser-nivå)
+
+## 1. Urnordisk (ca. 0–700 e.Kr.)
+
+### Kjenneteikn
+
+*   Felles nordisk språk i heile Skandinavia
+*   Brukt før dei nordiske språka skilde lag
+*   Kjenneteikna av:
+    *   Eit rikt bøyingssystem
+    *   Mange kasus og verbendingar
+*   Skriftspråk: **runer**
+
+### Viktige hendingar
+
+*   Runeinnskrifter på stein, våpen og smykke
+*   Språket utviklar seg gradvis forskjellig i ulike område
+
+### Kvifor viktig?
+
+*   Grunnlaget for dei nordiske språka: norsk, svensk, dansk, islandsk og færøysk
+
+***
+
+## 2. Norrønt språk (ca. 700–1350)
+
+### Kjenneteikn
+
+*   Urnordisk deler seg i:
+    *   **Vestnorrønt** (Noreg, Island, Færøyane)
+    *   **Austnorrønt** (Danmark, Sverige)
+*   Norrønt var:
+    *   Høgstatusspråk
+    *   Brukt i både tale og skrift
+*   Skriftspråk: først runer, seinare latinsk alfabet
+
+### Viktige sjangrar
+
+*   Islendingesogene
+*   Kongesogene (t.d. *Heimskringla*)
+*   Lovtekstar (Gulatingslova, Frostatingslova)
+
+### Nøkkelpersonar
+
+*   **Snorre Sturlason**
+    *   Skreiv *Heimskringla*
+    *   Viktig for språkhistorie og norrøn litteratur
+
+### Kvifor viktig?
+
+*   Dette reknast som «gullalderen» i norsk språkhistorie
+*   Noreg hadde eige skriftspråk
+
+***
+
+## 3. Mellomnorsk tid (ca. 1350–1536)
+
+### Historisk bakgrunn
+
+*   **Svartedauden (1349–50)**:
+    *   Over halvparten av befolkninga døyr
+    *   Tap av elite og skriftspråkbrukarar
+*   Politisk svekking av Noreg
+
+### Språklege endringar
+
+*   Forenkling av grammatikk:
+    *   Kasussystemet forsvinn gradvis
+*   Store dialektskilnader
+*   Skriftspråket blir mindre brukt
+
+### Kvifor viktig?
+
+*   Overgangen frå norrønt til moderne norsk talemål
+*   Starten på språkleg forfall som skriftspråk
+
+***
+
+## 4. Dansketida (1536–1814)
+
+### Politisk situasjon
+
+*   Noreg blir styrt frå Danmark
+*   Dansk blir:
+    *   Administrasjonsspråk
+    *   Skule- og kyrkjespråk
+    *   Skriftspråk i Noreg
+
+### Språklege forhold
+
+*   Vanlege folk snakka norsk dialekt
+*   Eliten skreiv dansk
+*   Etter kvart utvikla det seg eit:
+    *   **dansk-norsk talemål** (forløparen til bokmål)
+
+### Konsekvensar
+
+*   Norsk skriftspråk forsvinn
+*   Stor avstand mellom tale og skrift
+
+### Kvifor viktig?
+
+*   Forklarer kvifor moderne norsk har to skriftspråk
+
+***
+
+## 5. Språkstriden og nasjonalromantikken (ca. 1800–1850)
+
+### Historisk bakgrunn
+
+*   1814: Grunnlova → sterk nasjonalkjensle
+*   Behov for norsk kultur og språk
+
+### To hovudretningar
+
+1.  **Fornorsking av dansk**
+2.  **Eit nytt norsk skriftspråk basert på dialektar**
+
+***
+
+## 6. Ivar Aasen og landsmålet
+
+### Nøkkelperson: Ivar Aasen (1813–1896)
+
+### Arbeid
+
+*   Reiste rundt i Noreg og samla dialektar
+*   Skapte:
+    *   **Landsmålet** (seinare nynorsk)
+    *   Norsk grammatikk og ordbok
+
+### Språksyn
+
+*   Ville bygge skriftspråket på:
+    *   Norske dialektar
+    *   Gamalnorske trekk
+
+### Kvifor viktig?
+
+*   Grunnleggjar av nynorsk
+*   Gav talemålet status og verdi
+
+***
+
+## 7. Knud Knudsen og riksmålet
+
+### Nøkkelperson: Knud Knudsen (1812–1895)
+
+### Arbeid
+
+*   Ville gradvis fornorske dansk
+*   Endringar:
+    *   Dansk uttale → norsk uttale
+    *   Enklare bøying
+
+### Resultat
+
+*   **Riksmål**, seinare **bokmål**
+
+### Kvifor viktig?
+
+*   Grunnlaget for bokmål
+*   Praktisk og gradvis språkendring
+
+***
+
+## 8. Jamstelling og rettskrivingsreformer (1900-talet)
+
+### Viktige hendingar
+
+*   1885: **Jamstellingsvedtaket**
+    *   Landsmål og riksmål blir likestilte
+*   Rettskrivingsreformer:
+    *   1907, 1917, 1938
+
+### Samnorsk
+
+*   Forsøk på å slå saman bokmål og nynorsk
+*   Skapte sterke konflikter
+
+### Kvifor viktig?
+
+*   Forklarer språkstriden og motstanden mot samnorsk
+*   Forma dagens skriftspråk
+
+***
+
+## 9. Moderne norsk (1970–i dag)
+
+### Språkleg situasjon
+
+*   To offisielle skriftspråk:
+    *   **Bokmål**
+    *   **Nynorsk**
+*   Dialektbruk er sosialt akseptert
+*   Engelsk påverkar ordforråd
+
+### Språkpolitikk
+
+*   Vern av nynorsk
+*   Språkrådet arbeider for:
+    *   Klart språk
+    *   Norsk terminologi
+
+### Kvifor viktig?
+
+*   Noreg har ein unik språkleg situasjon
+*   Historisk arv lever vidare i dag
+
+***
+
+## Tips til eksamen (sekser-nivå)
+
+*   Bruk **årstal**
+*   Nemn **personar og idear**
+*   Forklar **kvifor** endringar skjedde
+*   Knytt språk til **historie og samfunn**
+
+Om du vil, kan eg:
+
+*   Lage **kortversjon / puggeliste**
+*   Hjelpe deg med **drøftingsoppgåve**
+*   Lage **eksempel på eksamenssvar**
