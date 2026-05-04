@@ -1,0 +1,17 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Solid mørk bakgrunn som matcher navbar -->
+  <circle cx="40" cy="40" r="38" fill="#1a2b4a"/>
+  <!-- Ytre ring -->
+  <circle cx="40" cy="40" r="34" fill="white" opacity="0.12"/>
+  <!-- Midtre ring -->
+  <circle cx="40" cy="40" r="26" fill="white" opacity="0.18"/>
+  <!-- Indre ring -->
+  <circle cx="40" cy="40" r="18" fill="white" opacity="0.1"/>
+  <!-- Bullseye -->
+  <circle cx="40" cy="40" r="10" fill="#d4a03c"/>
+  <!-- Checkmark -->
+  <path d="M35 40 L39 44 L46 36" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Dart-antydning -->
+  <circle cx="58" cy="18" r="3" fill="#d4a03c" opacity="0.6"/>
+  <path d="M55 21 L48 28" stroke="#d4a03c" stroke-width="2" stroke-linecap="round"/>
+</svg>

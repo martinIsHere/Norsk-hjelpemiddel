@@ -1,0 +1,2 @@
+jQuery(document).ready(function(i){i(".read-more-link").on("click",function(e){e.preventDefault();var e=i(this).closest(".description"),n=e.find(".collapsed"),e=e.find(".expanded"),d=(e.addClass("open"),e.prop("scrollHeight"));e.css("max-height",d+"px"),n.find(".read-more").hide()}),i(".read-less-link").on("click",function(e){e.preventDefault();e=i(this).closest(".description");e.find(".expanded").removeClass("open").css("max-height",""),e.find(".collapsed .read-more").show()})});
+//# sourceMappingURL=person.js.map

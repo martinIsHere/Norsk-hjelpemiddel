@@ -1,0 +1,134 @@
+(function ( $ ) {
+	/**
+	 * All of the code for your public-facing JavaScript source
+	 * should reside in this file.
+	 *
+	 * Note that this assume you're going to use jQuery, so it prepares
+	 * the $ function reference to be used within the scope of this
+	 * function.
+	 *
+	 * From here, you're able to define handlers for when the DOM is
+	 * ready:
+	 *
+	 * $(function() {
+	 *
+	 * });
+	 *
+	 * Or when the window is loaded:
+	 *
+	 * $( window ).load(function() {
+	 *
+	 * });
+	 *
+	 * ...and so on.
+	 *
+	 * Remember that ideally, we should not attach any more than a single DOM-ready or window-load handler
+	 * for any particular page. Though other scripts in WordPress core, other plugins, and other themes may
+	 * be doing this, we should try to minimize doing that in our own work.
+	 */
+
+	// </script>
+
+	function get_privacy_title( language ) {
+		if (smart_settings_js.modal_title) {
+			return smart_settings_js.modal_title
+		}
+
+		language = language || 'no';
+		switch ( language ) {
+			case 'en':
+				return "Privacy Policy";
+			case 'no':
+			default:
+				return "Personvernerklæring";
+		}
+	}
+
+	function get_consent_content( language ) {
+		language = language || 'no';
+
+		switch ( language ) {
+			case "en":
+				return {
+					"message": smart_settings_js.message.en.replace(/ [^\s]+[.!?]?$/, ''),
+					"dismiss": "Dismiss",
+					"link": smart_settings_js.message.en.split(/[, ]+/).pop(),
+					"href": "#", //smart_settings_js.post_path,
+					"title": "Privacy Policy"
+				};
+			case "no":
+			default:
+				return {
+					"message": smart_settings_js.message.no.replace(/ [^\s]+[.!?]?$/, ''),
+					"dismiss": "Lukk",
+					"link": smart_settings_js.message.no.split(/[, ]+/).pop(),
+					"href": "#", //smart_settings_js.post_path,
+					"title": "Personvernerklæring"
+				}
+		}
+
+	}
+
+
+	if ( window.cookieconsent && window.cookieconsent.utils ) { // workaround for cookie-consent's auto-float on mobile
+		window.cookieconsent.utils.isMobile = function() { return false; }
+	}
+
+	window.addEventListener( "load", function () {
+		var contentObj = get_consent_content(smart_settings_js.language);
+
+		$("#privacy-modal").iziModal({
+			padding: '10px',
+			top: '40px',
+			bottom: '40px',
+			padding: '15px',
+			iconColor: '#000000',
+			closeButton: true,
+			// headerColor: '#f2f2f2',
+			headerColor: smart_settings_js.header_color || '#252525',
+			focusInput: false,
+			zindex: 99999,
+			title: get_privacy_title(smart_settings_js.language),
+			
+			transitionIn: 'tada',
+			transitionOut: 'comingOut',
+			transitionInOverlay: 'tada',
+			transitionOutOverlay: 'fadeOut'
+		});
+		
+		
+		if(window.cookieconsent !== undefined && window.cookieconsent.initialise !== undefined) {
+			window.cookieconsent.initialise( {
+				palette: {
+					popup: {
+						background: smart_settings_js.colors.consent_background
+					},
+					button: {
+						background: smart_settings_js.colors.consent_button
+					},
+				},
+				elements: {
+					messagelink: '<span id="cookieconsent:desc" class="cc-message">{{message}} ' +
+					'<a aria-label="learn more about cookies" tabindex="0" class="cc-link privacy-trigger" href="{{href}}">{{link}}</a></span>',
+				},
+				// "theme": "classic",
+				// "overrideHTML": innerHtml
+				content: contentObj,
+				theme: smart_settings_js.force_fullwidth == 'on' ? 'mono' : 'block',
+				position: smart_settings_js.force_fullwidth == 'on' ? 'bottom' : 'bottom-left',
+			} );
+		} // endif (CookieConsent-bar enabled)
+
+		$(document).on('click', '.privacy-trigger', function (event) {
+			event.preventDefault();
+			var modal = $('#privacy-modal');
+			modal.attr("aria-hidden","false")
+			modal.iziModal('setHeader', true);
+			modal.iziModal('open' );
+		});
+
+	} );
+
+})( jQuery );
+
+
